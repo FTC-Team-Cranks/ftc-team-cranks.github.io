@@ -16,6 +16,8 @@
 
 .bigfont {
 font-size: 100px;
+word-wrap: break-word;
+
 }
 	
 .font-title {

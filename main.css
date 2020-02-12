@@ -1,3 +1,23 @@
-.bg-coolgray {
-  background-color: #53565A;
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono|Cabin&display=swap');
+
+.bg-1 {
+  background-color: rgb(90, 17, 25	);
+  color: white;
   }
+  
+.bg-2 {
+  background-color: black;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  color: white;
+  }
+
+.font-title {
+	font-family: 'Cabin', sans-serif;
+}
+
+.font-para {
+	font-family: 'Share Tech Mono', monospace;
+}
+
